@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
+- 🌱 I’m interested in **Front-End Development, Generative AI and Artificial intelligence**
+
 - 💬 Ask me about **Full Stack Web-development (MERN)**
 
 - 📫 How to reach me **sankhapratimpal@gmail.com**
@@ -32,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankhapratim&show_icons=true&locale=en" alt="sankhapratim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&" alt="sankhapratim" /></p>
+
