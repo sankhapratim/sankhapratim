@@ -108,35 +108,24 @@
 
 <div>
   <h3 align="center">GitHub Stats✨</h3>
-  <table align="center" cellpadding="10">
-    <tr>
-      <td>
-        <a href="https://github.com/sankhapratim">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" height="200"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sankhapratim">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=falsehide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sankhapratim Github overview" width="400" height="200"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/sankhapratim">
-          <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" height="200"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sankhapratim">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak" width="400" height="200"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/sankhapratim">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    </a>
+    <a href="https://github.com/sankhapratim">
+      <img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sankhapratim Github overview"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/sankhapratim">
+      <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/sankhapratim">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
+    </a>
+  </p>
 </div>
-
-
 
 
 
