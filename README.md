@@ -108,29 +108,25 @@
 
 
 
-<div align="center">
-  <h3>GitHub Stats✨</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex: 1 1 45%; max-width: 45%;">
-      <a href="https://github.com/sankhapratim">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;"/>
-      </a>
-    </div>
-    <div style="flex: 1 1 45%; max-width: 45%;">
-      <a href="https://github.com/sankhapratim">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false" alt="sankhapratim Github overview" style="width: 100%;"/>
-      </a>
-    </div>
-    <div style="flex: 1 1 45%; max-width: 45%;">
-      <a href="https://github.com/sankhapratim">
-        <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;"/>
-      </a>
-    </div>
-    <div style="flex: 1 1 45%; max-width: 45%;">
-      <a href="https://github.com/sankhapratim">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak" style="width: 100%;"/>
-      </a>
-    </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <h3 align="center" style="width: 100%;">GitHub Stats✨</h3>
+
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; width: 100%; max-width: 1200px;">
+    <a href="https://github.com/sankhapratim" style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%; max-width: 500px;"/>
+    </a>
+    <a href="https://github.com/sankhapratim" style="flex: 1;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false" alt="sankhapratim Github overview" style="width: 100%; max-width: 500px;"/>
+    </a>
+  </div>
+
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; width: 100%; max-width: 1200px;">
+    <a href="https://github.com/sankhapratim" style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%; max-width: 500px;"/>
+    </a>
+    <a href="https://github.com/sankhapratim" style="flex: 1;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak" style="width: 100%; max-width: 500px;"/>
+    </a>
   </div>
 </div>
 
