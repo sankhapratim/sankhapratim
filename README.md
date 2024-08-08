@@ -110,14 +110,11 @@
 
 
 <div>
-  <p align='center'><b>🏆 Github Trophies</b></p><br/>
-![](https://github-profile-trophy.vercel.app/?username=sankhapratim&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+  <p align="center"><b>🏆 Github Trophies</b></p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sankhapratim&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="Github Trophies"/>
+  </p>
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=sankhapratim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 <!-- Footer image -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
