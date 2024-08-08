@@ -41,7 +41,7 @@
 </p>
 
 
-<h2 align="center">Profiles 👨‍🎓</h2>
+<h2 align="center">👨‍🎓 Profiles </h2>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/sankhapratimpal" target="_blank">
@@ -58,8 +58,7 @@
 <h2 align='center'>⚡ Tech Stack 🖱️ </h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<h3 align='center'>📫Frontend Enchantments</h3>
-
+<h3 align='center'>⚓ Frontend Enchantments</h3>
 <div align='center' style="display: flex, width:20px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
