@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="center" src="https://i.ibb.co/P17WkcT/1-o-UAAR9fnsmpst-Fhqm-ZZ55g.gif" alt="1-o-UAAR9fnsmpst-Fhqm-ZZ55g" border="0">
+<img align="center" src="https://pouch.jumpshare.com/preview/L7oa5HPvk-Q4o8X-zTQXxb1FMuRe_2qFOJi_U2BhxSiO6QP6rZ6VUsHnute5rsu7gsufztz9kbP3tpYr8KPLI42g5xfOP2uKfyyTuM3G8Gs" alt="Image preview">
 
 <h2 align="center" margin-top={0}> 🧑‍💻 About Me</h2>
 
