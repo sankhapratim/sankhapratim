@@ -107,27 +107,24 @@
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <h3 align="center" style="width: 100%;">GitHub Stats✨</h3>
+<h3 align="center">GitHub Stats✨</h3>
+<p align="center">
+  <a href="https://github.com/sankhapratim">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/sankhapratim">
+    <img width="40%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false" alt="sankhapratim Github overview" style="border: 5px solid white;"/>
+  </a>
+</p>
 
-  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; width: 100%; max-width: 1200px;">
-    <a href="https://github.com/sankhapratim" style="flex: 1; max-width: 500px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%; border: 2px solid white;"/>
-    </a>
-    <a href="https://github.com/sankhapratim" style="flex: 1; max-width: 50%;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false" alt="sankhapratim Github overview" style="width: 100%; border: 2px solid white;"/>
-    </a>
-  </div>
-
-  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; width: 100%; max-width: 1200px;">
-    <a href="https://github.com/sankhapratim" style="flex: 1; max-width: 500px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%; border: 2px solid white;"/>
-    </a>
-    <a href="https://github.com/sankhapratim" style="flex: 1; max-width: 500px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak" style="width: 100%; border: 2px solid white;"/>
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/sankhapratim">
+    <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/sankhapratim">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
+  </a>
+</p>
 
 
 
