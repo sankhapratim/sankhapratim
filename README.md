@@ -112,22 +112,23 @@
   <h3 align="center">GitHub Stats✨</h3>
   <p align="center">
     <a href="https://github.com/sankhapratim">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
     </a>
     <a href="https://github.com/sankhapratim">
-      <img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=radical" alt="sankhapratim Github overview"/>
+      <img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=radical" alt="sankhapratim GitHub overview"/>
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/sankhapratim">
-      <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/sankhapratim">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=radical&hide_border=false" alt="GitHub Streak"/>
     </a>
   </p>
 </div>
+
 
 
 
