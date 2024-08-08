@@ -117,7 +117,7 @@
       </td>
       <td>
         <a href="https://github.com/sankhapratim">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false" alt="sankhapratim Github overview" width="400" height="200" style="border: 5px solid white;"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=falsehide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sankhapratim Github overview" width="400" height="200"/>
         </a>
       </td>
     </tr>
