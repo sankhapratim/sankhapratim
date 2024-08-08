@@ -115,7 +115,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
     </a>
     <a href="https://github.com/sankhapratim">
-      <img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false" alt="sankhapratim Github overview"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false" alt="sankhapratim Github overview"/>
     </a>
   </p>
 
