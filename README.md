@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhapratim&label=Profile%20views&color=0e75b6&style=flat" alt="sankhapratim" /> </p>
 
-<h2 align="center" margin-top={0}> 👽 About Me</h2>
+<h2 align="center" margin-top={0}> 🧑‍💻 About Me</h2>
 
 <h4 align='center'>🌱 A vibrant and enthusiastic MERN (MongoDB, Express.js, React.js, Node.js) developer, I am on a dynamic mission to create robust and intuitive web applications. My GitHub is a treasure trove of innovative projects and code snippets, reflecting my prowess in building full-stack solutions with the MERN stack.</h4>
 
@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=cyan" />
-  
   <img src="https://img.shields.io/badge/Socket.io-violet?style=for-the-badge&logo=socket.io&badgeColor=black" />
   
 </div>
@@ -99,10 +98,9 @@
 <div align='center' style="display: flex, width:20px">
 <img src="https://img.shields.io/badge/Communication-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-100000?style=for-the-badge&logo=problemsolving&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Work-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
   <img src="https://img.shields.io/badge/Time%20Managment-000000?style=for-the-badge&logo=timemanagment&logoColor=white" />
   <img src="https://img.shields.io/badge/Adaptability-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Work-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
   </div>
 </div>
 
@@ -129,8 +127,6 @@
     </a>
 </p>
 </div>
-
-
 
 
 <div>
