@@ -41,14 +41,21 @@
 </p>
 
 
-<h2 align='center'>Profiles 👨‍🎓</h2>
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]()
+<h2 align="center">Profiles 👨‍🎓</h2>
 
-<a href="https://codepen.io/sankha-pratim-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sankha-pratim-pal" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/sankhapratimpal" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
+  </a>
+  <a href="https://codepen.io/sankha-pratim-pal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sankhapr4c92" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+</p>
 
-<a href="https://auth.geeksforgeeks.org/user/sankhapr4c92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sankhapr4c92" height="30" width="40" /></a>
-
-<h2 align='center'>⚡ Tech Stack🖱️ </h2>
+<h2 align='center'>⚡ Tech Stack 🖱️ </h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <h3 align='center'>📫Frontend Enchantments</h3>
@@ -63,7 +70,7 @@
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
 
-  <h3 align='center'>📫Backend Wizardry</h3>
+  <h3 align='center'>📫 Backend Wizardry</h3>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -75,7 +82,7 @@
 </div>
 <!-- <br/> -->
 
-<h3 align='center'> 🧩 Libraries and Tools:</h3>
+<h3 align='center'> 🧩 Libraries and Tools </h3>
 <div align='center' style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -101,7 +108,7 @@
 
 
 <div>
-  <h3 align="center">GitHub Stats✨</h3>
+  <h3 align="center">✨ GitHub Stats</h3>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/><br/>
