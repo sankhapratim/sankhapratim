@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhapratim&label=Profile%20views&color=0e75b6&style=flat" alt="sankhapratim" /> </p>
+<img src="https://i.ibb.co/P17WkcT/1-o-UAAR9fnsmpst-Fhqm-ZZ55g.gif" alt="1-o-UAAR9fnsmpst-Fhqm-ZZ55g" border="0">
 
 <h2 align="center" margin-top={0}> 🧑‍💻 About Me</h2>
 
@@ -138,3 +138,5 @@
 
 <!-- Footer image -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhapratim&label=Profile%20views&color=0e75b6&style=flat" alt="sankhapratim" /> </p>
