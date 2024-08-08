@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://www.lambdatest.com/resources/images/news24.gif/>
+  <img src=https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif/>
 </div>
 
 <h3 align="center">Hello Fellow < Developers/ >! 👋</h3>
@@ -27,7 +27,7 @@
     I'm open to collaborating on exciting projects that push the boundaries of web development. If you're interested in working together or have any ideas to discuss, feel free to reach out!
 
 
-  <div align="center"><img src="./Image/fullstack.gif"/></div>
+  <div align="center"><img src=""/></div>
   <br/>
 
 <h3 align="center">💬 Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/></h3>
