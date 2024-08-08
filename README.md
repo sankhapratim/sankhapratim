@@ -40,9 +40,8 @@
   </a>
 </p>
 
-
+<div>
 <h2 align="center">👨‍🎓 Profiles </h2>
-
 <p align="center">
   <a href="https://www.hackerrank.com/profile/sankhapratimpal" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
@@ -54,6 +53,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
+</div>
 
 <h2 align='center'>⚡ Tech Stack 🖱️ </h2>
 <p align='center'>
