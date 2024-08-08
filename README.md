@@ -27,7 +27,7 @@
     I'm open to collaborating on exciting projects that push the boundaries of web development. If you're interested in working together or have any ideas to discuss, feel free to reach out!
 
 
-  <div align="center"><img src=""/></div>
+  <div align="center"><img src="https://devtechnosys.ae/blog/wp-content/uploads/2021/10/Mean-Stack-Vs-Full-Stack-Developer.gif"/></div>
   <br/>
 
 <h3 align="center">💬 Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/></h3>
