@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src=https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif/>
 </div>
@@ -7,8 +6,9 @@
 <h1 align="center">I'm Sankha Pratim Pal</h1>
 <h3 align="center">Aspiring Full-Stack-Web-Developer, with a specialization in MERN stack</h3>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+page.;Let's+explore+about+me+and+my+works" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+page😊;Let's+explore+about+me+and+my+works;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things" alt="Typing SVG" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
