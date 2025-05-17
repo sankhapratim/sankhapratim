@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<img align="center" src="https://i.ibb.co/5hLrHCgd/aiml.gif" alt="Image preview">
+
 
 
 <h2 align="center" margin-top={0}> 🧑‍💻 About Me</h2>
