@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://i.ibb.co/5hLrHCgd/aiml.gif" alt="aiml" border="0">
+<img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
 <h2 align="center" margin-top={0}> 🧑‍💻 About Me</h2>
 
