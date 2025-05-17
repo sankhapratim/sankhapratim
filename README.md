@@ -18,8 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<img align="center" src="https://pouch.jumpshare.com/preview/3k2h3sFmWSU1RVYFz_Eyl0EMVLr5RU8CVAb-1IpSsqZzwk7NMTvXBjCdvMcNjCt96mN8hSA_paiQS8Tu9NMSSJquQk9RQ-mO_M4f8wER9lo" alt="Image preview">
-
+<img align="center" src="https://i.ibb.co/5hLrHCgd/aiml.gif" alt="Image preview">
 
 
 <h2 align="center" margin-top={0}> 🧑‍💻 About Me</h2>
