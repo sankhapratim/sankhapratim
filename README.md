@@ -183,50 +183,50 @@
   <!-- overview streak stat-->
 <div align="center">
   <h3>GitHub Stats ✨</h3>
-  <table cellspacing="12">
-    <tr>
-      <!-- Card 1 -->
-      <td>
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
-          alt="GitHub Stats"
-          width="400"
-          height="150"
-        />
-      </td>
-      <!-- Card 2 -->
-      <td>
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
-          alt="GitHub Streak"
-          width="400"
-          height="150"
-        />
-      </td>
-    </tr>
-    <tr>
-      <!-- Card 3 -->
-      <td>
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
-          alt="Top Languages"
-          width="400"
-          height="150"
-        />
-      </td>
-      <!-- Card 4 -->
-      <td>
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
-          alt="GitHub Overview"
-          width="400"
-          height="150"
-        />
-      </td>
-    </tr>
-  </table>
 
+  <!-- 2x2 Quadrant Flex -->
+  <div style="
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    max-width:860px;
+    gap:12px;
+  ">
+    <!-- Card 1 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
+        alt="GitHub Stats"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
+    </div>
+    <!-- Card 2 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
+        alt="GitHub Streak"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
+    </div>
+    <!-- Card 3 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
+        alt="Top Languages"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
+    </div>
+    <!-- Card 4 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
+        alt="GitHub Overview"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
+    </div>
+  </div>
 </div>
+
 
 
 
