@@ -182,9 +182,7 @@
 
   <!-- overview streak stat-->
 <div align="center">
-
   <h3>GitHub Stats ✨</h3>
-
   <table cellspacing="12">
     <tr>
       <!-- Card 1 -->
@@ -227,7 +225,9 @@
       </td>
     </tr>
   </table>
+
 </div>
+
 
 
 <div>
