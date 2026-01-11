@@ -129,6 +129,7 @@
 </div>
 
 <br/>
+
 <h3 align='center'> 📉 ML/DL Icons</h2>
 <div align='center' style="display: flex, width:20px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -150,6 +151,7 @@
 </p>
 </div>
 
+<br/>
 
 <div>
   <h3 align="center">🏅🥇 GitHub Badges 🥈🥉</h3>
