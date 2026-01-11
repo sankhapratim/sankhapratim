@@ -152,49 +152,61 @@
 
 <div align="center">
   <h3>GitHub Stats ✨</h3>
-  <!-- Grid Layout -->
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-<!-- Card 1: Overall Stats -->
-    <a href="https://github.com/sankhapratim">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
-        alt="Sankha Pratim GitHub Stats"
-        width="420"
-        height="170"
-        style="border-radius:10px;"
-      />
-    </a>
-    <!-- Card 2: Streak -->
-    <a href="https://github.com/sankhapratim">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
-        alt="Sankha Pratim GitHub Streak"
-        width="420"
-        height="170"
-        style="border-radius:10px;"
-      />
-    </a>
-    <!-- Card 3: Top Languages -->
-    <a href="https://github.com/sankhapratim">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
-        alt="Sankha Pratim Top Languages"
-        width="420"
-        height="170"
-        style="border-radius:10px;"
-      />
-    </a>
-    <!-- Card 4: Overview -->
-    <a href="https://github.com/sankhapratim">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
-        alt="Sankha Pratim GitHub Overview"
-        width="420"
-        height="170"
-        style="border-radius:10px;"
-      />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <!-- Top Left -->
+      <td align="center">
+        <a href="https://github.com/sankhapratim">
+          <img
+            src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
+            alt="GitHub Stats"
+            width="420"
+            height="170"
+            style="border-radius:10px;"
+          />
+        </a>
+      </td>
+<!-- Top Right -->
+      <td align="center">
+        <a href="https://github.com/sankhapratim">
+          <img
+            src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
+            alt="GitHub Streak"
+            width="420"
+            height="170"
+            style="border-radius:10px;"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Bottom Left -->
+      <td align="center">
+        <a href="https://github.com/sankhapratim">
+          <img
+            src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
+            alt="Top Languages"
+            width="420"
+            height="170"
+            style="border-radius:10px;"
+          />
+        </a>
+      </td>
+      <!-- Bottom Right -->
+      <td align="center">
+        <a href="https://github.com/sankhapratim">
+          <img
+            src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
+            alt="GitHub Overview"
+            width="420"
+            height="170"
+            style="border-radius:10px;"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 
