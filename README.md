@@ -117,7 +117,7 @@
 </div>
 
 <br/>
-<h3 align='center'> 🤝 Machine Learning Icons</h2>
+<h3 align='center'> 🤖 Machine Learning Icons</h2>
 <div align='center' style="display: flex, width:20px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
