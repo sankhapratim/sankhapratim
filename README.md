@@ -216,9 +216,9 @@
 
 <!-- PageSpeed Insights Section -->
 <div>
-<h3>🚀 PageSpeed Insights</h3>
+ <h3 align="center"><b>🚀 PageSpeed Insights </b></h3>
 <p>
-  <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg" alt="PageSpeed Insights" width="400" height="200"/>
+  <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg" alt="PageSpeed Insights"/>
 </p>
 </div>
 
