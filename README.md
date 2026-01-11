@@ -116,18 +116,71 @@
   </div>
 </div>
 
+<div>
+  <h3 align="center">📊 GitHub Stats</h3>
 
-## GitHub Stats ✨
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&layout=compact" alt="Top Languages"/>
+  </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&layout=compact)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=sankhapratim&theme=gruvbox" alt="GitHub Streak"/>
+  </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankhapratim)
+  <p align="center">
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox" alt="GitHub Overview"/>
+  </p>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sankhapratim)
 
-## 🏆 GitHub Trophies
+<div>
+  <h3 align="center">📊 GitHub Badges</h3>
+<div align="center">
+  <a href="https://github.com/sankhapratim">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/>
+  </a>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sankhapratim&margin-w=10)
+  <a href="https://archiveprogram.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"/>
+  </a>
+
+  <a href="https://docs.github.com/en/developers">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/pricing">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"/>
+  </a>
+
+  <a href="https://stars.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"/>
+  </a>
+
+  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"/>
+  </a>
+</div>
+</div>
+
+
+
+<div>
+  <h3 align="center">🏆 GitHub Trophies</h3>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sankhapratim&theme=monokai&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  </p>
+</div>
+
+<div>
+  <h3 align="center">🏆 GitHub Metrics</h3>
+<div align="center">
+  <img src="https://api.vaunt.dev/v1/github/entities/sankhapratim/contributions?format=svg&private=true" alt="Vaunt Badge"/>
+
+  <img src="https://metrics.lecoq.io/sankhapratim" alt="GitHub Metrics"/>
+</div>
+</div>
 
 
 <!-- Footer image -->
