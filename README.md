@@ -150,28 +150,54 @@
 </p>
 </div>
 
-<div>
-  <h3 align="center">GitHub Stats✨</h3>
-  <p align="center">
-    <a href="https://github.com/sankhapratim">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true" alt="Sankha Pratim's GitHub stats" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/sankhapratim">
-      <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/sankhapratim">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
-    </a>
-  </p>
-
-<p align="center">
+<div align="center">
+  <h3>GitHub Stats ✨</h3>
+  <!-- Overall GitHub Stats -->
   <a href="https://github.com/sankhapratim">
-      <img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sankhapratim Github overview"/>
-    </a>
-</p>
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
+      alt="Sankha Pratim GitHub Stats"
+      width="500"
+      style="border-radius:10px;"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/sankhapratim">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
+      alt="Sankha Pratim GitHub Streak"
+      width="500"
+      style="border-radius:10px;"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/sankhapratim">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
+      alt="Sankha Pratim Top Languages"
+      width="400"
+      style="border-radius:10px;"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Overview (Merko Theme) -->
+  <a href="https://github.com/sankhapratim">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
+      alt="Sankha Pratim GitHub Overview"
+      width="500"
+      style="border-radius:10px;"
+    />
+  </a>
+
 </div>
 
 
