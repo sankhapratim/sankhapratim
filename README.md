@@ -150,69 +150,9 @@
 </p>
 </div>
 
-<div align="center">
-  <h3>GitHub Stats ✨</h3>
-  <table>
-    <tr>
-      <!-- Top Left -->
-      <td align="center">
-        <a href="https://github.com/sankhapratim">
-          <img
-            src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
-            alt="GitHub Stats"
-            width="420"
-            height="170"
-            style="border-radius:10px;"
-          />
-        </a>
-      </td>
-<!-- Top Right -->
-      <td align="center">
-        <a href="https://github.com/sankhapratim">
-          <img
-            src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
-            alt="GitHub Streak"
-            width="420"
-            height="170"
-            style="border-radius:10px;"
-          />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <!-- Bottom Left -->
-      <td align="center">
-        <a href="https://github.com/sankhapratim">
-          <img
-            src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
-            alt="Top Languages"
-            width="420"
-            height="170"
-            style="border-radius:10px;"
-          />
-        </a>
-      </td>
-      <!-- Bottom Right -->
-      <td align="center">
-        <a href="https://github.com/sankhapratim">
-          <img
-            src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
-            alt="GitHub Overview"
-            width="420"
-            height="170"
-            style="border-radius:10px;"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-
 
 <div>
-  <h3 align="center">📊 GitHub Badges</h3>
+  <h3 align="center">🏅🥇 GitHub Badges 🥈🥉</h3>
 <div align="center">
   <a href="https://github.com/sankhapratim">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/>
@@ -240,6 +180,56 @@
 </div>
 </div>
 
+  <!-- overview streak stat-->
+<div align="center">
+  <h3>GitHub Stats ✨</h3>
+  <!-- Quadrant Flex Grid -->
+  <div style="
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    width:900px;
+    gap:20px;
+  ">
+ <!-- Card Wrapper -->
+    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
+      <a href="https://github.com/sankhapratim">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
+          alt="GitHub Stats"
+          style="width:100%; height:100%; object-fit:cover;"
+        />
+      </a>
+    </div>
+    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
+      <a href="https://github.com/sankhapratim">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
+          alt="GitHub Streak"
+          style="width:100%; height:100%; object-fit:cover;"
+        />
+      </a>
+    </div>
+    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
+      <a href="https://github.com/sankhapratim">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
+          alt="Top Languages"
+          style="width:100%; height:100%; object-fit:cover;"
+        />
+      </a>
+    </div>
+    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
+      <a href="https://github.com/sankhapratim">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
+          alt="GitHub Overview"
+          style="width:100%; height:100%; object-fit:cover;"
+        />
+      </a>
+    </div>
+  </div>
+</div>
 
 
 <div>
