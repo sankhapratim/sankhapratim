@@ -183,50 +183,45 @@
   <!-- overview streak stat-->
 <div align="center">
   <h3>GitHub Stats ✨</h3>
-  <!-- Quadrant Flex Grid -->
+  <!-- 2x2 Quadrant Flex -->
   <div style="
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
-    width:400px;
-    gap:20px;
+    max-width:860px;
+    gap:12px;
   ">
- <!-- Card Wrapper -->
-    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
-      <a href="https://github.com/sankhapratim">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
-          alt="GitHub Stats"
-          style="width:100%; height:100%; object-fit:cover;"
-        />
-      </a>
+    <!-- Card 1 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
+        alt="GitHub Stats"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
     </div>
-    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
-      <a href="https://github.com/sankhapratim">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
-          alt="GitHub Streak"
-          style="width:100%; height:100%; object-fit:cover;"
-        />
-      </a>
+    <!-- Card 2 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
+        alt="GitHub Streak"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
     </div>
-    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
-      <a href="https://github.com/sankhapratim">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
-          alt="Top Languages"
-          style="width:100%; height:100%; object-fit:cover;"
-        />
-      </a>
+    <!-- Card 3 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
+        alt="Top Languages"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
     </div>
-    <div style="width:420px; height:180px; overflow:hidden; border-radius:12px;">
-      <a href="https://github.com/sankhapratim">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
-          alt="GitHub Overview"
-          style="width:100%; height:100%; object-fit:cover;"
-        />
-      </a>
+    <!-- Card 4 -->
+    <div style="width:420px; height:150px; overflow:hidden; border-radius:10px;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
+        alt="GitHub Overview"
+        style="width:100%; height:100%; object-fit:contain;"
+      />
     </div>
   </div>
 </div>
