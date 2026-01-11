@@ -117,28 +117,18 @@
 </div>
 
 
-<div>
-<h3 align="center">GitHub Stats ✨</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox" />
-</p>
-</div>
+## GitHub Stats ✨
 
-<div>
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sankhapratim&theme=monokai&no-frame=true&margin-w=8" />
-</p>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankhapratim)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sankhapratim)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sankhapratim&margin-w=10)
+
 
 <!-- Footer image -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
