@@ -154,7 +154,7 @@
   <h3 align="center">GitHub Stats✨</h3>
   <p align="center">
     <a href="https://github.com/sankhapratim">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true" alt="Sankha Pratim's GitHub stats" />
     </a>
   </p>
 
