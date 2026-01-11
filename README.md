@@ -152,52 +152,49 @@
 
 <div align="center">
   <h3>GitHub Stats ✨</h3>
-  <!-- Overall GitHub Stats -->
-  <a href="https://github.com/sankhapratim">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
-      alt="Sankha Pratim GitHub Stats"
-      width="500"
-      style="border-radius:10px;"
-    />
-  </a>
-
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <a href="https://github.com/sankhapratim">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
-      alt="Sankha Pratim GitHub Streak"
-      width="500"
-      style="border-radius:10px;"
-    />
-  </a>
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/sankhapratim">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
-      alt="Sankha Pratim Top Languages"
-      width="400"
-      style="border-radius:10px;"
-    />
-  </a>
-
-  <br><br>
-
-  <!-- GitHub Overview (Merko Theme) -->
-  <a href="https://github.com/sankhapratim">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
-      alt="Sankha Pratim GitHub Overview"
-      width="500"
-      style="border-radius:10px;"
-    />
-  </a>
-
+  <!-- Grid Layout -->
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<!-- Card 1: Overall Stats -->
+    <a href="https://github.com/sankhapratim">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
+        alt="Sankha Pratim GitHub Stats"
+        width="420"
+        height="170"
+        style="border-radius:10px;"
+      />
+    </a>
+    <!-- Card 2: Streak -->
+    <a href="https://github.com/sankhapratim">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
+        alt="Sankha Pratim GitHub Streak"
+        width="420"
+        height="170"
+        style="border-radius:10px;"
+      />
+    </a>
+    <!-- Card 3: Top Languages -->
+    <a href="https://github.com/sankhapratim">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
+        alt="Sankha Pratim Top Languages"
+        width="420"
+        height="170"
+        style="border-radius:10px;"
+      />
+    </a>
+    <!-- Card 4: Overview -->
+    <a href="https://github.com/sankhapratim">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
+        alt="Sankha Pratim GitHub Overview"
+        width="420"
+        height="170"
+        style="border-radius:10px;"
+      />
+    </a>
+  </div>
 </div>
 
 
