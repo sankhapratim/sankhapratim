@@ -104,7 +104,10 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/NLP-%235A4FCF.svg?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23D00000.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-%2300A896.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%238A2BE2.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 
  <!--<br/> -->
 <h3 align='center'> 📊 Data Visualization </h3>
@@ -114,6 +117,9 @@
   <img src="https://img.shields.io/badge/Advanced_Excel-%231A5F3F.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
   <img src="https://img.shields.io/badge/Statistics-%23347AB7.svg?style=for-the-badge&logo=none&logoColor=white" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+
   
    <!--<br/> -->
 <h3 align='center'> 🧰 Cloud Computing </h3>
