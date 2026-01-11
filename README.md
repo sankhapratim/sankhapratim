@@ -117,21 +117,29 @@
 </div>
 
 <div>
-  <h3 align="center">📊 GitHub Stats</h3>
-
+  <h3 align="center">GitHub Stats✨</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&layout=compact" alt="Top Languages"/>
+    <a href="https://github.com/sankhapratim">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    </a>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com/?user=sankhapratim&theme=gruvbox" alt="GitHub Streak"/>
+    <a href="https://github.com/sankhapratim">
+      <img src="https://github-readme-stats.vercel.app/api?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/sankhapratim">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhapratim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
+    </a>
   </p>
 
-  <p align="center">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox" alt="GitHub Overview"/>
-  </p>
+<p align="center">
+  <a href="https://github.com/sankhapratim">
+      <img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankhapratim&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sankhapratim Github overview"/>
+    </a>
+</p>
 </div>
+
 
 
 <div>
@@ -166,21 +174,12 @@
 
 
 <div>
-  <h3 align="center">🏆 GitHub Trophies</h3>
-
+  <h3 align="center"><b>🏆 Github Trophies</b></h3>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sankhapratim&theme=monokai&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sankhapratim&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="Github Trophies"/>
   </p>
 </div>
 
-<div>
-  <h3 align="center">🏆 GitHub Metrics</h3>
-<div align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/sankhapratim/contributions?format=svg&private=true" alt="Vaunt Badge"/>
-
-  <img src="https://metrics.lecoq.io/sankhapratim" alt="GitHub Metrics"/>
-</div>
-</div>
 
 
 <!-- Footer image -->
