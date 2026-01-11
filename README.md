@@ -183,16 +183,17 @@
   <!-- overview streak stat-->
 <div align="center">
   <h3>GitHub Stats ✨</h3>
+
   <!-- 2x2 Quadrant Flex -->
   <div style="
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
-    max-width:430px;
-    gap:6px;
+    max-width:300px;
+    gap:4px;
   ">
     <!-- Card 1 -->
-    <div style="width:210px; height:75px; overflow:hidden; border-radius:5px;">
+    <div style="width:145px; height:55px; overflow:hidden; border-radius:4px;">
       <img
         src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&theme=gruvbox&show_icons=true"
         alt="GitHub Stats"
@@ -200,7 +201,7 @@
       />
     </div>
     <!-- Card 2 -->
-    <div style="width:210px; height:75px; overflow:hidden; border-radius:5px;">
+    <div style="width:145px; height:55px; overflow:hidden; border-radius:4px;">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/streak?username=sankhapratim&theme=blue-green"
         alt="GitHub Streak"
@@ -208,7 +209,7 @@
       />
     </div>
     <!-- Card 3 -->
-    <div style="width:210px; height:75px; overflow:hidden; border-radius:5px;">
+    <div style="width:145px; height:55px; overflow:hidden; border-radius:4px;">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sankhapratim&layout=compact&theme=neon"
         alt="Top Languages"
@@ -216,7 +217,7 @@
       />
     </div>
     <!-- Card 4 -->
-    <div style="width:210px; height:75px; overflow:hidden; border-radius:5px;">
+    <div style="width:145px; height:55px; overflow:hidden; border-radius:4px;">
       <img
         src="https://github-readme-stats-fast.vercel.app/api?username=sankhapratim&show_icons=true&hide=contribs,prs&theme=merko"
         alt="GitHub Overview"
